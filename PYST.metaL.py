@@ -7,6 +7,7 @@ p = Project(
     title='''Smalltalkish in Python''',
     about='''
 * https://twitter.com/dponyatov/status/1445456570389729283
+* http://www.mirandabanda.org/bluebook/bluebook_imp_toc.html
 ''') \
     | Python() \
     | ST()

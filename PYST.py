@@ -58,6 +58,17 @@ class Active(Object): pass
 ## program representation (low-level bytecode commands)
 class ByteCode(Active): pass
 
+## push the value of the receiver's instance variable onto the stack
+class push(ByteCode):
+    def __init__(self, V=0, var=0): super().__init__(V + var)
+
+## send a binary message with the selector `+`
+class add(ByteCode):
+    def __init__(self, V=176): super().__init__(V)
+
+class push2(ByteCode):
+    def __init__(self, V=119): super().__init__(V)
+
 ## Virtual Machine
 class VM(Active): pass
 

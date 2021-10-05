@@ -7,6 +7,7 @@ github: https://github.com/ponyatov/PYST/
 
 
 * https://twitter.com/dponyatov/status/1445456570389729283
+* http://www.mirandabanda.org/bluebook/bluebook_imp_toc.html
 
 <hr>
 powered with [metaL](https://github.com/ponyatov/metaLgen)
