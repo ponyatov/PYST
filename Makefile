@@ -60,7 +60,13 @@ doxy:
 	rm -rf docs ; doxygen doxy.gen 1>/dev/null
 
 .PHONY: doc
-doc:
+doc: doc/moser.pdf doc/Bluebook.pdf doc/ALittleSmalltalk.pdf
+doc/moser.pdf:
+	$(CURL) $@ https://www.heinzi.at/texte/smalltalk.pdf
+doc/Bluebook.pdf:
+	$(CURL) $@ http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf
+doc/ALittleSmalltalk.pdf:
+	$(CURL) $@ http://rmod-files.lille.inria.fr/FreeBooks/LittleSmalltalk/ALittleSmalltalk.pdf
 # / doc
 
 # \ install

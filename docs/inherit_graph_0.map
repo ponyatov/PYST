@@ -1,0 +1,77 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmetaL_1_1Object.html" title="Object HyperGraph node = Marvin Minsky&#39;s Frame. " alt="" coords="5,625,105,652"/>
+<area shape="rect" id="node2" href="$classmetaL_1_1Active.html" title="EDS: Executable Data Structure (c) " alt="" coords="163,81,262,108"/>
+<area shape="rect" id="node7" href="$classmetaL_1_1Container.html" title="metaL.Container" alt="" coords="153,259,272,285"/>
+<area shape="rect" id="node12" href="$classmetaL_1_1IO.html" title="metaL.IO" alt="" coords="175,441,251,468"/>
+<area shape="rect" id="node25" href="$classmetaL_1_1Meta.html" title="metaprogramming components " alt="" coords="167,600,258,627"/>
+<area shape="rect" id="node51" href="$classmetaL_1_1Primitive.html" title="metaL.Primitive" alt="" coords="156,651,269,677"/>
+<area shape="rect" id="node70" href="$classPYST_1_1Active.html" title="executable " alt="" coords="163,701,262,728"/>
+<area shape="rect" id="node71" href="$classPYST_1_1Number.html" title="floating point " alt="" coords="159,752,266,779"/>
+<area shape="rect" id="node75" href="$classPYST_1_1Primitive.html" title="scalar type " alt="" coords="157,803,269,829"/>
+<area shape="rect" id="node3" href="$classmetaL_1_1Fn.html" title="Function. " alt="" coords="341,5,418,32"/>
+<area shape="rect" id="node5" href="$classPYST_1_1ByteCode.html" title="program representation (low&#45;level bytecode commands) " alt="" coords="320,56,439,83"/>
+<area shape="rect" id="node6" href="$classPYST_1_1VM.html" title="Virtual Machine. " alt="" coords="339,107,420,133"/>
+<area shape="rect" id="node4" href="$classmetaL_1_1Meth.html" title="Method. " alt="" coords="497,5,587,32"/>
+<area shape="rect" id="node8" href="$classmetaL_1_1Map.html" title="metaL.Map" alt="" coords="336,157,423,184"/>
+<area shape="rect" id="node9" href="$classmetaL_1_1Queue.html" title="metaL.Queue" alt="" coords="329,208,429,235"/>
+<area shape="rect" id="node10" href="$classmetaL_1_1Stack.html" title="metaL.Stack" alt="" coords="331,259,427,285"/>
+<area shape="rect" id="node11" href="$classmetaL_1_1Vector.html" title="metaL.Vector" alt="" coords="329,309,429,336"/>
+<area shape="rect" id="node13" href="$classmetaL_1_1Dir.html" title="metaL.Dir" alt="" coords="340,360,419,387"/>
+<area shape="rect" id="node14" href="$classmetaL_1_1File.html" title="metaL.File" alt="" coords="338,411,421,437"/>
+<area shape="rect" id="node23" href="$classmetaL_1_1Net.html" title="metaL.Net" alt="" coords="338,473,421,500"/>
+<area shape="rect" id="node15" href="$classmetaL_1_1giti.html" title="metaL.giti" alt="" coords="503,125,581,152"/>
+<area shape="rect" id="node16" href="$classmetaL_1_1htmlFile.html" title="metaL.htmlFile" alt="" coords="488,176,596,203"/>
+<area shape="rect" id="node17" href="$classmetaL_1_1jsonFile.html" title="metaL.jsonFile" alt="" coords="489,227,595,253"/>
+<area shape="rect" id="node18" href="$classmetaL_1_1Makefile.html" title="metaL.Makefile" alt="" coords="487,277,597,304"/>
+<area shape="rect" id="node19" href="$classmetaL_1_1pyFile.html" title="metaL.pyFile" alt="" coords="493,328,591,355"/>
+<area shape="rect" id="node20" href="$classmetaL_1_1rsFile.html" title="metaL.rsFile" alt="" coords="495,379,589,405"/>
+<area shape="rect" id="node21" href="$classmetaL_1_1teraFile.html" title="metaL.teraFile" alt="" coords="489,429,595,456"/>
+<area shape="rect" id="node22" href="$classmetaL_1_1tomlFile.html" title="metaL.tomlFile" alt="" coords="488,480,596,507"/>
+<area shape="rect" id="node24" href="$classmetaL_1_1Web.html" title="metaL.Web" alt="" coords="497,531,587,557"/>
+<area shape="rect" id="node26" href="$classmetaL_1_1Class.html" title="metaL.Class" alt="" coords="331,549,427,576"/>
+<area shape="rect" id="node27" href="$classmetaL_1_1Module.html" title="metaL.Module" alt="" coords="327,600,431,627"/>
+<area shape="rect" id="node28" href="$classmetaL_1_1Mod.html" title="Project functional modificator. " alt="" coords="499,581,585,608"/>
+<area shape="rect" id="node50" href="$classmetaL_1_1Project.html" title="software project " alt="" coords="491,632,593,659"/>
+<area shape="rect" id="node29" href="$classmetaL_1_1Actix.html" title="Actix Web framework. " alt="" coords="663,75,755,101"/>
+<area shape="rect" id="node31" href="$classmetaL_1_1Django.html" title="Django project. " alt="" coords="657,125,760,152"/>
+<area shape="rect" id="node32" href="$classmetaL_1_1Flask.html" title="Flask project. " alt="" coords="661,176,756,203"/>
+<area shape="rect" id="node33" href="$classmetaL_1_1Forth.html" title="tiny Forth&#45;like interpreter " alt="" coords="663,227,755,253"/>
+<area shape="rect" id="node34" href="$classmetaL_1_1Fun.html" title="object (hyper)graph functional core " alt="" coords="667,277,751,304"/>
+<area shape="rect" id="node35" href="$classmetaL_1_1Game.html" title="Rust gaming. " alt="" coords="660,328,757,355"/>
+<area shape="rect" id="node36" href="$classmetaL_1_1Ini.html" title="empty project initialization " alt="" coords="671,379,747,405"/>
+<area shape="rect" id="node37" href="$classmetaL_1_1Java.html" title="metaL.Java" alt="" coords="663,429,754,456"/>
+<area shape="rect" id="node38" href="$classmetaL_1_1Kernel.html" title="Linux kernel hacks. " alt="" coords="659,480,758,507"/>
+<area shape="rect" id="node39" href="$classmetaL_1_1netCracker.html" title="metaL.netCracker" alt="" coords="645,531,772,557"/>
+<area shape="rect" id="node40" href="$classmetaL_1_1Python.html" title="metaL.Python" alt="" coords="657,581,760,608"/>
+<area shape="rect" id="node42" href="$classmetaL_1_1RIT.html" title="Rust Interpreter Toolkit. " alt="" coords="667,632,751,659"/>
+<area shape="rect" id="node43" href="$classmetaL_1_1Rocket.html" title="Rocket.rs web framework " alt="" coords="657,683,761,709"/>
+<area shape="rect" id="node44" href="$classmetaL_1_1Rust.html" title="metaL.Rust" alt="" coords="663,733,754,760"/>
+<area shape="rect" id="node45" href="$classmetaL_1_1ST.html" title="Smalltalkish projects. " alt="" coords="669,784,748,811"/>
+<area shape="rect" id="node46" href="$classmetaL_1_1TeX.html" title="LaTeX documenting project. " alt="" coords="665,835,752,861"/>
+<area shape="rect" id="node47" href="$classmetaL_1_1VEnv.html" title="extend Python project with venv (local interpreter &amp; libs) " alt="" coords="661,885,756,912"/>
+<area shape="rect" id="node48" href="$classmetaL_1_1WASM.html" title="Rust WASM target. " alt="" coords="657,936,761,963"/>
+<area shape="rect" id="node30" href="$classmetaL_1_1SCADA.html" title="SCADA/IoT platform. " alt="" coords="821,75,931,101"/>
+<area shape="rect" id="node41" href="$classmetaL_1_1metaL.html" title="metaL.metaL" alt="" coords="827,581,925,608"/>
+<area shape="rect" id="node49" href="$classmetaL_1_1Yew.html" title="Yew framework application. " alt="" coords="832,936,920,963"/>
+<area shape="rect" id="node52" href="$classmetaL_1_1S.html" title="strings can be nested: source code tree " alt="" coords="344,651,415,677"/>
+<area shape="rect" id="node68" href="$classPYST_1_1Nil.html" title="PYST.Nil" alt="" coords="341,701,418,728"/>
+<area shape="rect" id="node69" href="$classPYST_1_1String.html" title="PYST.String" alt="" coords="332,752,427,779"/>
+<area shape="rect" id="node53" href="$classmetaL_1_1HTML.html" title="block " alt="" coords="493,1012,591,1039"/>
+<area shape="rect" id="node67" href="$classmetaL_1_1Sec.html" title="code section " alt="" coords="499,1063,585,1089"/>
+<area shape="rect" id="node54" href="$classmetaL_1_1BODY.html" title="metaL.BODY" alt="" coords="659,987,759,1013"/>
+<area shape="rect" id="node55" href="$classmetaL_1_1DIV.html" title="metaL.DIV" alt="" coords="666,1037,751,1064"/>
+<area shape="rect" id="node57" href="$classmetaL_1_1HEAD.html" title="metaL.HEAD" alt="" coords="659,1088,759,1115"/>
+<area shape="rect" id="node58" href="$classmetaL_1_1HTMLI.html" title="inline " alt="" coords="657,1139,760,1165"/>
+<area shape="rect" id="node62" href="$classmetaL_1_1HTMLS.html" title="metaL.HTMLS" alt="" coords="655,1291,762,1317"/>
+<area shape="rect" id="node56" href="$classmetaL_1_1NAV.html" title="metaL.NAV" alt="" coords="831,1037,921,1064"/>
+<area shape="rect" id="node59" href="$classmetaL_1_1SCRIPT.html" title="metaL.SCRIPT" alt="" coords="820,1088,932,1115"/>
+<area shape="rect" id="node60" href="$classmetaL_1_1SPAN.html" title="metaL.SPAN" alt="" coords="827,1139,925,1165"/>
+<area shape="rect" id="node61" href="$classmetaL_1_1TITLE.html" title="metaL.TITLE" alt="" coords="827,1189,925,1216"/>
+<area shape="rect" id="node63" href="$classmetaL_1_1HR.html" title="metaL.HR" alt="" coords="835,1240,917,1267"/>
+<area shape="rect" id="node64" href="$classmetaL_1_1IMG.html" title="metaL.IMG" alt="" coords="833,1291,919,1317"/>
+<area shape="rect" id="node65" href="$classmetaL_1_1LINK.html" title="metaL.LINK" alt="" coords="830,1341,922,1368"/>
+<area shape="rect" id="node66" href="$classmetaL_1_1META.html" title="metaL.META" alt="" coords="827,1392,925,1419"/>
+<area shape="rect" id="node72" href="$classPYST_1_1Integer.html" title="integer " alt="" coords="329,1113,430,1140"/>
+<area shape="rect" id="node73" href="$classPYST_1_1Bin.html" title="PYST.Bin" alt="" coords="502,1113,582,1140"/>
+<area shape="rect" id="node74" href="$classPYST_1_1Hex.html" title="PYST.Hex" alt="" coords="499,1164,585,1191"/>
+</map>

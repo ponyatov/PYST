@@ -8,6 +8,7 @@ p = Project(
     about='''
 * https://twitter.com/dponyatov/status/1445456570389729283
 ''') \
-    | Python()
+    | Python() \
+    | ST()
 
 p.sync()
